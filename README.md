@@ -1,4 +1,5 @@
 # image-gallery
 code project description
-![image](https://github.com/user-attachments/assets/3bafc992-0aad-4b15-b08f-dfb3335ec14e)
+![Screenshot (124)](https://github.com/user-attachments/assets/a470efff-d934-4a87-ad39-b2d48ac09566)
+
 
